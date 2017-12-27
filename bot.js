@@ -3,7 +3,7 @@ const client = new Discord.Client();
 
 client.on("ready", () => {
       client.user.setStatus("online"); //dnd , online , ldle
-      client.user.setGame("Hey! || !verify");
+      client.user.setGame("XDDDDDDDDDDDDDD");
       console.log("Running as user "+client.user.username+"#"+client.user.discriminator+".");
  //         client.user.setAvatar('./icon.png')
    //           .then(user => console.log(`New avatar set!`))
