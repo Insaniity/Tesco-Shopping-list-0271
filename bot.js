@@ -1,5 +1,5 @@
 const Discord = require('discord.js');
-con--st client = new Discord.Client();
+const client = new Discord.Client();
 
 client.on("ready", () => {
       client.user.setStatus("online"); //dnd , online , ldle
